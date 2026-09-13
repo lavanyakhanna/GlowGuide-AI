@@ -10,16 +10,16 @@ The project combines **Machine Learning, Data Analysis, and Web Development** to
 
 ## 🌸 Features
 
-- 💧 Analyzes daily water intake
-- 😴 Considers sleep patterns
-- 🧠 Evaluates stress levels
-- 📱 Tracks screen time
-- ☀️ Considers sun exposure
-- 🌆 Analyzes pollution exposure
-- 🤖 Uses Machine Learning for prediction
-- 🌿 Generates personalized skincare recommendations
-- 📊 Compares multiple Machine Learning models
-- 💻 Interactive web interface using Streamlit
+- Analyzes daily water intake
+- Considers sleep patterns
+- Evaluates stress levels
+- Tracks screen time
+- Considers sun exposure
+- Analyzes pollution exposure
+- Uses Machine Learning for prediction
+- Generates personalized skincare recommendations
+- Compares multiple Machine Learning models
+- Interactive web interface using Streamlit
 
 ---
 
@@ -86,3 +86,41 @@ GlowGuide-AI/
 ├── glowguide.py
 ├── requirements.txt
 └── README.md
+
+## 🚀 How to Run the Project
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/lavanyakhanna/GlowGuide-AI.git
+```
+
+### 2. Go to the project folder
+
+```bash
+cd GlowGuide-AI
+```
+
+### 3. Install the required libraries
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+### 4. Run the Streamlit web application
+
+```bash
+python -m streamlit run app.py
+```
+
+The application will open in your browser automatically.
+
+---
+
+## 🧠 Run the Machine Learning Model Separately
+
+If you want to run the original machine learning program and view the model results:
+
+```bash
+python glowguide.py
+```
