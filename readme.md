@@ -86,6 +86,7 @@ GlowGuide-AI/
 ├── glowguide.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 🚀 How to Run the Project
 
